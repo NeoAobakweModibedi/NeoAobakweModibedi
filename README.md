@@ -9,7 +9,7 @@ A curious data explorer with a strong mathematical background, drawing insights 
 This is Neo's digital workbench—a hub for experiments and projects in **SQL**, **Data Visualization (Power BI, Matplotlib, Seaborn)**, **Machine Learning**, and **AI**.  
 
 - **Mission**: Use data to boost efficiency, cut costs and risks, and spark innovation.  
-- **Focus**: Exploring use cases, from personal finance (insurance, investment, budgeting, credit) to global markets.  
+- **Focus**: Exploring use cases, from personal finance (insurance, investment, budgeting, credit) to global markets and more.  
 - **Interests**: Building innovative systems, Exploratory Data Analysis (EDA), modeling, dashboards, and reporting.  
 
 ---
